@@ -6,3 +6,4 @@
 - ⚡ Fun fact: I like 导管 verymore
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh4miko&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4miko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
