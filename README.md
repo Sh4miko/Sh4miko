@@ -4,6 +4,7 @@
 - 📫 How to reach me 导管
 - 😄 Pronouns: 导管
 - ⚡ Fun fact: I like 导管 verymore
+- 🧐 Favorite language: ![What](https://img.shields.io/badge/kotlin-black?style=for-the-badge&logo=kotlin)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sh4miko&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sh4miko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
